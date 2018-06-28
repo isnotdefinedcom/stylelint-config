@@ -1,0 +1,30 @@
+{
+	"name": "stylelint-config-redaxmedia",
+	"description": "Yet another CSS coding standard",
+	"version": "1.0.0",
+	"license": "GPL-3.0",
+	"keywords":
+	[
+		"css",
+		"coding",
+		"standard"
+	],
+	"author":
+	{
+		"name": "Henry Ruhs",
+		"url": "https://redaxmedia.com"
+	},
+	"bugs":
+	{
+		"url": "https://github.com/redaxmedia/stylelint-config-redaxmedia/issues"
+	},
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/redaxmedia/stylelint-config-redaxmedia.git"
+	},
+	"dependencies":
+	{
+		"stylelint-order": "0.8.1"
+	}
+}
