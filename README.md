@@ -24,7 +24,7 @@ Refer the coding standard inside your `.stylelintrc` file:
 {
 	"extends":
 	[
-		"redaxmedia"
+		"stylelint-config-redaxmedia"
 	]
 }
 ```
