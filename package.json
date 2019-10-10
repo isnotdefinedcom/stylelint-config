@@ -1,7 +1,7 @@
 {
 	"name": "stylelint-config-redaxmedia",
 	"description": "Yet another CSS coding standard",
-	"version": "1.0.0",
+	"version": "2.0.0-beta.1",
 	"license": "GPL-3.0",
 	"keywords":
 	[
@@ -25,6 +25,7 @@
 	},
 	"dependencies":
 	{
-		"stylelint-order": "0.8.1"
+		"stylelint-no-px": "0.12.1",
+		"stylelint-order": "3.1.1"
 	}
 }

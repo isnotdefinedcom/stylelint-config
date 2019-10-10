@@ -27,6 +27,16 @@
 		"length-zero-no-unit": true,
 		"max-empty-lines": 1,
 		"max-nesting-depth": 3,
+		"meowtec/no-px":
+		[
+			true,
+			{
+				"ignore":
+				[
+					"border"
+				]
+			}
+		],
 		"order/properties-alphabetical-order": true,
 		"selector-combinator-space-after": "always",
 		"selector-combinator-space-before": "always",
@@ -39,6 +49,7 @@
 	},
 	"plugins":
 	[
+		"stylelint-no-px",
 		"stylelint-order"
 	]
 }
