@@ -1,6 +1,8 @@
 {
 	"rules":
 	{
+		"at-rule-name-case": "lower",
+		"at-rule-no-vendor-prefix": true,
 		"color-hex-case": "lower",
 		"color-named": "never",
 		"color-no-invalid-hex": true,
@@ -17,34 +19,44 @@
 		"declaration-block-semicolon-newline-after": "always",
 		"declaration-no-important": true,
 		"font-family-name-quotes": "always-where-recommended",
-		"font-weight-notation": "named-where-possible",
+		"font-weight-notation": "numeric",
 		"function-blacklist":
 		[
 			"calc"
 		],
+		"function-name-case": "lower",
 		"function-url-quotes": "always",
 		"indentation": "tab",
 		"length-zero-no-unit": true,
 		"max-empty-lines": 1,
 		"max-nesting-depth": 3,
+		"media-feature-name-case": "lower",
+		"media-feature-name-no-vendor-prefix": true,
 		"meowtec/no-px":
 		[
 			true,
 			{
 				"ignore":
 				[
-					"border"
+					"border",
+					"box-shadow"
 				]
 			}
 		],
 		"order/properties-alphabetical-order": true,
+		"property-case": "lower",
+		"property-no-vendor-prefix": true,
 		"selector-combinator-space-after": "always",
 		"selector-combinator-space-before": "always",
 		"selector-max-id": 0,
 		"selector-max-universal": 0,
 		"selector-no-vendor-prefix": true,
+		"selector-pseudo-class-case": "lower",
+		"selector-pseudo-element-case": "lower",
 		"selector-pseudo-element-colon-notation": "single",
 		"selector-type-case": "lower",
+		"unit-case": "lower",
+		"value-keyword-case": "lower",
 		"value-no-vendor-prefix": true
 	},
 	"plugins":
