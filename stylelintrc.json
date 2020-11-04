@@ -43,6 +43,7 @@
 				]
 			}
 		],
+		"number-leading-zero": "always",
 		"order/properties-alphabetical-order": true,
 		"property-case": "lower",
 		"property-no-vendor-prefix": true,
