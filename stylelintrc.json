@@ -20,7 +20,7 @@
 		"declaration-no-important": true,
 		"font-family-name-quotes": "always-where-recommended",
 		"font-weight-notation": "numeric",
-		"function-blacklist":
+		"function-disallowed-list":
 		[
 			"calc"
 		],
