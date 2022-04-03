@@ -16,12 +16,12 @@
 	},
 	"bugs":
 	{
-		"url": "https://github.com/redaxmedia/@isnotdefined/stylelint-config/issues"
+		"url": "https://github.com/isnotdefined-com/stylelint-config/issues"
 	},
 	"repository":
 	{
 		"type": "git",
-		"url": "https://github.com/redaxmedia/@isnotdefined/stylelint-config.git"
+		"url": "https://github.com/isnotdefined-com/stylelint-config.git"
 	},
 	"dependencies":
 	{
