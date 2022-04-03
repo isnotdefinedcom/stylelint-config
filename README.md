@@ -1,17 +1,17 @@
-Stylelint Config Redaxmedia
-===========================
+Stylelint Config
+================
 
 > Yet another CSS coding standard.
 
-[![NPM Version](https://img.shields.io/npm/v/stylelint-config-redaxmedia.svg)](https://npmjs.com/package/stylelint-config-redaxmedia)
-[![License](https://img.shields.io/npm/l/stylelint-config-redaxmedia.svg)](https://npmjs.com/package/stylelint-config-redaxmedia)
+[![NPM Version](https://img.shields.io/npm/v/@isnotdefined/stylelint-config.svg)](https://npmjs.com/package/@isnotdefined/stylelint-config)
+[![License](https://img.shields.io/npm/l/@isnotdefined/stylelint-config.svg)](https://npmjs.com/package/@isnotdefined/stylelint-config)
 
 
 Installation
 ------------
 
 ```
-npm install stylelint-config-redaxmedia
+npm install @isnotdefined/stylelint-config
 ```
 
 
@@ -24,7 +24,7 @@ Refer the coding standard inside your `.stylelintrc` file:
 {
 	"extends":
 	[
-		"stylelint-config-redaxmedia"
+		"@isnotdefined/stylelint-config"
 	]
 }
 ```

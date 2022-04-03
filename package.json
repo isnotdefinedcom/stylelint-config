@@ -1,5 +1,5 @@
 {
-	"name": "stylelint-config-redaxmedia",
+	"name": "@isnotdefined/stylelint-config",
 	"description": "Yet another CSS coding standard",
 	"version": "3.2.0",
 	"license": "MIT",
@@ -12,16 +12,16 @@
 	"author":
 	{
 		"name": "Henry Ruhs",
-		"url": "https://redaxmedia.com"
+		"url": "https://henryruhs.com"
 	},
 	"bugs":
 	{
-		"url": "https://github.com/redaxmedia/stylelint-config-redaxmedia/issues"
+		"url": "https://github.com/redaxmedia/@isnotdefined/stylelint-config/issues"
 	},
 	"repository":
 	{
 		"type": "git",
-		"url": "https://github.com/redaxmedia/stylelint-config-redaxmedia.git"
+		"url": "https://github.com/redaxmedia/@isnotdefined/stylelint-config.git"
 	},
 	"dependencies":
 	{
