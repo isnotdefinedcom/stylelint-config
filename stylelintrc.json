@@ -39,7 +39,7 @@
 				"ignore":
 				[
 					"border",
-					"box-shadow"
+					"outline"
 				]
 			}
 		],
