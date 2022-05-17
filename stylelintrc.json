@@ -1,6 +1,8 @@
 {
 	"rules":
 	{
+		"@isnotdefined/no-obsolete": true,
+		"@isnotdefined/unit-step": true,
 		"at-rule-name-case": "lower",
 		"at-rule-no-vendor-prefix": true,
 		"color-hex-case": "lower",
@@ -62,6 +64,7 @@
 	},
 	"plugins":
 	[
+		"@isnotdefined/stylelint-plugin",
 		"stylelint-no-px",
 		"stylelint-order"
 	]
