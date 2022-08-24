@@ -1,7 +1,7 @@
 {
 	"name": "@isnotdefined/stylelint-config",
 	"description": "Yet another CSS coding standard",
-	"version": "3.6.0",
+	"version": "3.7.0",
 	"license": "MIT",
 	"keywords":
 	[
