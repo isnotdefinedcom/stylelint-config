@@ -1,6 +1,13 @@
 {
+	"plugins":
+	[
+		"@isnotdefined/stylelint-plugin",
+		"stylelint-no-px",
+		"stylelint-order"
+	],
 	"rules":
 	{
+		"@isnotdefined/no-disable": true,
 		"@isnotdefined/no-obsolete": true,
 		"@isnotdefined/unit-step": true,
 		"at-rule-name-case": "lower",
@@ -62,10 +69,5 @@
 		"value-keyword-case": "lower",
 		"value-no-vendor-prefix": true
 	},
-	"plugins":
-	[
-		"@isnotdefined/stylelint-plugin",
-		"stylelint-no-px",
-		"stylelint-order"
-	]
+	"ignoreDisables": true
 }
