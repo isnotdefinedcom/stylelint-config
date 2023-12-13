@@ -1,7 +1,7 @@
 {
 	"name": "@isnotdefined/stylelint-config",
 	"description": "Yet another CSS coding standard",
-	"version": "6.1.0",
+	"version": "6.2.0",
 	"license": "MIT",
 	"keywords":
 	[
@@ -29,9 +29,9 @@
 	},
 	"dependencies":
 	{
-		"@isnotdefined/stylelint-plugin": "3.1.0",
+		"@isnotdefined/stylelint-plugin": "4.0.0",
 		"stylelint-no-px": "1.0.1",
 		"stylelint-stylistic": "0.4.3",
-		"stylelint-order": "6.0.3"
+		"stylelint-order": "6.0.4"
 	}
 }
